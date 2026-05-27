@@ -1,57 +1,58 @@
 {
   "rm_angio": {
-    "particular": { "normal": 1377, "especial": 1377 },
-    "particular_segundo": { "normal": 1101.6, "especial": 1101.6 },
-    "partconv": { "normal": 1240, "especial": 1240 },
-    "partconv_segundo": { "normal": 992, "especial": 992 }
+    "particular": { "normal": 1530, "especial": 1530 },
+    "particular_segundo": { "normal": 1224, "especial": 1224 },
+    "partconv": { "normal": 1377, "especial": 1377 },
+    "partconv_segundo": { "normal": 1101.6, "especial": 1101.6 }
   },
 
   "rm_avc": {
-    "particular": { "normal": 2228, "especial": 2228 },
-    "particular_segundo": { "normal": 1782.4, "especial": 1782.4 },
-    "partconv": { "normal": 2006, "especial": 2006 },
-    "partconv_segundo": { "normal": 1604.8, "especial": 1604.8 }
+    "particular": { "normal": 2475, "especial": 2475 },
+    "particular_segundo": { "normal": 1980, "especial": 1980 },
+    "partconv": { "normal": 2228, "especial": 2228 },
+    "partconv_segundo": { "normal": 1782.4, "especial": 1782.4 }
   },
 
   "rm_mag": {
-    "particular": { "normal": 1056, "especial": 1056 },
-    "particular_segundo": { "normal": 844.8, "especial": 844.8 },
-    "partconv": { "normal": 951, "especial": 951 },
-    "partconv_segundo": { "normal": 760.8, "especial": 760.8 }
+    "particular": { "normal": 1173, "especial": 1173 },
+    "particular_segundo": { "normal": 938.4, "especial": 938.4 },
+    "partconv": { "normal": 1056, "especial": 1056 },
+    "partconv_segundo": { "normal": 844.8, "especial": 844.8 }
   },
 
   "tc_ang": {
-    "particular": { "normal": 1208, "especial": 1208 },
-    "particular_segundo": { "normal": 966.4, "especial": 966.4 },
-    "partconv": { "normal": 1088, "especial": 1088 },
-    "partconv_segundo": { "normal": 870.4, "especial": 870.4 }
+    "particular": { "normal": 1342, "especial": 1342 },
+    "particular_segundo": { "normal": 1073.6, "especial": 1073.6 },
+    "partconv": { "normal": 1208, "especial": 1208 },
+    "partconv_segundo": { "normal": 966.4, "especial": 966.4 }
   },
 
   "tc_cor": {
-    "particular": { "normal": 1208, "especial": 1208 },
-    "particular_segundo": { "normal": 966.4, "especial": 966.4 },
-    "partconv": { "normal": 1088, "especial": 1088 },
-    "partconv_segundo": { "normal": 870.4, "especial": 870.4 }
+    "particular": { "normal": 1342, "especial": 1342 },
+    "particular_segundo": { "normal": 1073.6, "especial": 1073.6 },
+    "partconv": { "normal": 1208, "especial": 1208 },
+    "partconv_segundo": { "normal": 966.4, "especial": 966.4 }
   },
 
   "tc_avc": {
-    "particular": { "normal": 1679, "especial": 1679 },
-    "particular_segundo": { "normal": 1343.2, "especial": 1343.2 },
-    "partconv": { "normal": 1512, "especial": 1512 },
-    "partconv_segundo": { "normal": 1209.6, "especial": 1209.6 }
+    "particular": { "normal": 1865, "especial": 1865 },
+    "particular_segundo": { "normal": 1492, "especial": 1492 },
+    "partconv": { "normal": 1679, "especial": 1679 },
+    "partconv_segundo": { "normal": 1343.2, "especial": 1343.2 }
   },
 
   "tc_abd": {
-    "particular": { "normal": 798, "especial": 798 },
-    "particular_segundo": { "normal": 638.4, "especial": 638.4 },
-    "partconv": { "normal": 719, "especial": 719 },
-    "partconv_segundo": { "normal": 575.2, "especial": 575.2 }
+    "particular": { "normal": 886, "especial": 886 },
+    "particular_segundo": { "normal": 708.8, "especial": 708.8 },
+    "partconv": { "normal": 798, "especial": 798 },
+    "partconv_segundo": { "normal": 638.4, "especial": 638.4 }
   },
 
   "tc_comp": {
-    "particular": { "normal": 657, "especial": 657 },
-    "particular_segundo": { "normal": 525.6, "especial": 525.6 },
-    "partconv": { "normal": 592, "especial": 592 },
-    "partconv_segundo": { "normal": 473.6, "especial": 473.6 }
+    "particular": { "normal": 730, "especial": 730 },
+    "particular_segundo": { "normal": 584, "especial": 584 },
+    "partconv": { "normal": 657, "especial": 657 },
+    "partconv_segundo": { "normal": 525.6, "especial": 525.6 }
   }
 }
+``
