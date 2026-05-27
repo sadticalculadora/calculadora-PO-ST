@@ -859,12 +859,12 @@
             
             let temContrasteIncluso = Object.keys(examData).some(key => examData[key]?.incluiContraste && state.exames[key] > 0);
             if (state.contraste && !temContrasteIncluso) {
-                total += 360;
-                items.push({ nome: 'Contraste', abrev: 'Contr', perc: '100%', valor: 360 });
+                total += 450;
+                items.push({ nome: 'Contraste', abrev: 'Contr', perc: '100%', valor: 450 });
             }
             if (state.anestesia) {
-                total += 1073;
-                items.push({ nome: 'Anestesia / Sedação', abrev: 'Sed', perc: '100%', valor: 1073 });
+                total += 1288;
+                items.push({ nome: 'Anestesia / Sedação', abrev: 'Sed', perc: '100%', valor: 1288 });
             }
             return { items, total };
         }
