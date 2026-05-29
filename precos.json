@@ -14,10 +14,17 @@
   },
 
   "rm_mag": {
-    "particular": { "normal": 1173, "especial": 1173 },
-    "particular_segundo": { "normal": 938.4, "especial": 938.4 },
-    "partconv": { "normal": 1056, "especial": 1056 },
-    "partconv_segundo": { "normal": 844.8, "especial": 844.8 }
+    "particular": { "normal": 1173, "especial": 939 },
+    "particular_segundo": { "normal": 938.4, "especial": 751.2 },
+    "partconv": { "normal": 1056, "especial": 939 },
+    "partconv_segundo": { "normal": 844.8, "especial": 751.2 }
+  },
+
+  "rm_cont": {
+    "particular": { "normal": 1389, "especial": 1389 },
+    "particular_segundo": { "normal": 1111.2, "especial": 1111.2 },
+    "partconv": { "normal": 1389, "especial": 1389 },
+    "partconv_segundo": { "normal": 1111.2, "especial": 1111.2 }
   },
 
   "tc_ang": {
@@ -55,4 +62,3 @@
     "partconv_segundo": { "normal": 525.6, "especial": 525.6 }
   }
 }
-``
