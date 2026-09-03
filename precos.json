@@ -212,8 +212,8 @@
     "name": "RM - Hidro-RM (Colangio, Uro, Mielo, Sialo)",
     "category": "rmtc",
     "particular": {
-      "normal": 2085.0,
-      "especial": 2085.0
+      "normal": 1173.0,
+      "especial": 1173.0
     },
     "particular_segundo": {
       "normal": 1668.0,
