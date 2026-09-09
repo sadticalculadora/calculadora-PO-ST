@@ -147,7 +147,7 @@
     "category": "rmtc",
     "particular": {
       "normal": 1173.0,
-      "especial": 1173.0
+      "especial": 939.0
     },
     "particular_segundo": {
       "normal": 938.4,
@@ -161,7 +161,7 @@
       "normal": 844.56,
       "especial": 844.56
     },
-    "hasEspecial": false,
+    "hasEspecial": true,
     "onlyEspecial": false,
     "incluiContraste": true,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem e honorário médico. EXCLUSO: Materiais e medicamentos de anestesia e contraste e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento; por exemplo, cervical + torácica serão cobrados dois exames.",
@@ -207,7 +207,7 @@
     "category": "rmtc",
     "particular": {
       "normal": 1389.0,
-      "especial": 1389.0
+      "especial": 1349.0
     },
     "particular_segundo": {
       "normal": 1111.2,
