@@ -163,7 +163,7 @@
     },
     "hasEspecial": true,
     "onlyEspecial": false,
-    "incluiContraste": true,
+    "incluiContraste": false,
     "composicao": "INCLUSO: Taxas de sala e equipamentos, serviços de enfermagem e honorário médico. EXCLUSO: Materiais e medicamentos de anestesia e contraste e honorário médico do anestesista. INFORMAÇÕES ADICIONAIS: Quando solicitado TC e/ou RM, a cobrança será por segmento; por exemplo, cervical + torácica serão cobrados dois exames.",
     "codeTuss": [
       "41101251",
