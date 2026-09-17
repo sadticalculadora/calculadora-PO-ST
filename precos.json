@@ -151,15 +151,15 @@
     },
     "particular_segundo": {
       "normal": 938.4,
-      "especial": 938.4
+      "especial": 751.2
     },
     "partconv": {
       "normal": 1055.7,
-      "especial": 1055.7
+      "especial": 939.0
     },
     "partconv_segundo": {
       "normal": 844.56,
-      "especial": 844.56
+      "especial": 751.2
     },
     "hasEspecial": true,
     "onlyEspecial": false,
@@ -211,15 +211,15 @@
     },
     "particular_segundo": {
       "normal": 1111.2,
-      "especial": 1111.2
+      "especial": 1079.2
     },
     "partconv": {
       "normal": 1250.1,
-      "especial": 1250.1
+      "especial": 1349.0
     },
     "partconv_segundo": {
       "normal": 1000.08,
-      "especial": 1000.08
+      "especial": 1079.2
     },
     "hasEspecial": true,
     "onlyEspecial": true,
