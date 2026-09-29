@@ -207,7 +207,7 @@
     "category": "rmtc",
     "particular": {
       "normal": 1389.0,
-      "especial": 1349.0
+      "especial": 1389.0
     },
     "particular_segundo": {
       "normal": 1111.2,
@@ -215,7 +215,7 @@
     },
     "partconv": {
       "normal": 1250.1,
-      "especial": 1349.0
+      "especial": 1389.0
     },
     "partconv_segundo": {
       "normal": 1000.08,
